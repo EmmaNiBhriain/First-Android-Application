@@ -1,4 +1,4 @@
-package org.wit.lab01
+package org.wit.lab01.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,7 @@ import kotlinx.android.synthetic.main.activity_lab01.*
 import org.jetbrains.anko.AnkoLogger
 import org.jetbrains.anko.info
 import org.jetbrains.anko.toast
+import org.wit.lab01.R
 
 class Lab01Activity : AppCompatActivity(), AnkoLogger {
 
