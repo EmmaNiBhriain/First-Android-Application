@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Lab01</string>
     <string name="hint_lab01Title">Lab01 Title</string>
+    <string name="button_addLab">Add a Lab</string>
 </resources>
